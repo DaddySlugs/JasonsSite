@@ -1,0 +1,22 @@
+
+body{background-color: burlywood;}
+h1{color: firebrick;}
+
+
+button {font-family: cursive;
+font-size: 18px;
+    color: aqua;
+    background-color: crimson;
+    width: 120px;
+    margin-left: 30px;
+    padding: 10px;  
+}
+
+a{
+     color: aqua;;
+    text-decoration: none;
+}
+
+img{margin-left: 100px;}
+audio{margin-left: 100px;}
+iframe{margin-left: 100px;}
